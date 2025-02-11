@@ -4,7 +4,7 @@
 ```md
 # Project Invitation by Gmail
 
-A remote collaboration tool that allows users to create projects, invite team members via Gmail, and join projects using unique invite links.
+Create projects, invite team members via Gmail, and join projects using unique invite links.
 
 ## Features
 
