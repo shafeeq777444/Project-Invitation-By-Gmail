@@ -1,4 +1,4 @@
-![Alt Text](screenShots.jpg)
+![Alt Text](screenShots.png)
 
 
 ```md
@@ -29,7 +29,7 @@ A remote collaboration tool that allows users to create projects, invite team me
 
 ### Clone the Repository
 ```sh
-git clone https://github.com/yourusername/project-invitation.git
+git clone https://github.com/shafeeq777444/Project-Invitation-By-Gmail.git
 cd project-invitation
 ```
 
